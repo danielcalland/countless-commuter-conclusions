@@ -12,9 +12,9 @@ But when you add in through-city services like Thameslink and the Elizabeth Line
 I've looked through the weekday schedules between 6:00 and 9:00 am, and 4:00 and 7:00 pm and noted the central terminus (or termini) with a direct train, the peak return price, and the time it takes, for all the places you can reach the centre within 90 minutes from. It turns out this gives you 659 choices. I've then made six maps to visualise London's rail network that I hope will be useful.
 
 ##  What?
-1) Commuter Options per Terminus - https://danielcalland.github.io/countless-commuter-conclusions/1_commuter_options_per_terminus/
-2) Number of Stations Accessible
-3) Time
-4) Return Cost
-5) Average Speed
-6) Cheaper to Oyster or Ticket Machine?
+1. [Commuter Options per Terminus](https://danielcalland.github.io/ccc/1_commuter_options_per_terminus/) - click on the nearest terminus station to your work, to be shown all stations with a direct train in under 90 minutes on a map.
+2. Number of Stations Accessible - from your suburban station, how many of London's 19 central stations can be reached with a direct train?
+3. Time
+4. Return Cost
+5. Average Speed
+6. Cheaper to Oyster or Ticket Machine?
