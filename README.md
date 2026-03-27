@@ -20,3 +20,5 @@ I've looked through the weekday schedules between 6:00 and 9:00 am, and 4:00 and
 4. [Return Cost](https://danielcalland.github.io/ccc/4_return_cost) - the peak return cost for travel between 6:00 - 9:00 am and 4:00 - 7:00 pm.
 5. [Average Speed](https://danielcalland.github.io/ccc/5_average_speed) - the point-to-point average speed of the fastest train into London.
 6. [Cheaper to Oyster or Ticket Machine?](https://danielcalland.github.io/ccc/6_oyster_or_machine) - visualising whether it's cheaper to tap your oyster card twice, or buy a return ticket from the machine (or an app), with some strange results.
+
+There are plenty other interesting insights you could extract from the dataset I've created, such as price per mile, price per minute etc. I may try to visualise these in the future, but for now, onto the next obsession.
